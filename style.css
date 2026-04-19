@@ -84,3 +84,18 @@
   text-align: center;
   padding: 15px;
 }
+
+.depoimentos {
+  padding: 40px;
+  background-color: #f5f5f5;
+  text-align: center;
+}
+
+.btn-whatsapp {
+  display: inline-block;
+  padding: 12px 24px;
+  background: green;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+}
